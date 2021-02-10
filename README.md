@@ -26,6 +26,10 @@ Download the pre-compiled binaries from the [releases page](https://github.com/a
 
 **homebrew**
 ```
+brew install brew install --build-from-source gcc
+***41mins to complete if first time install***
+```
+```
 brew install achannarasappa/tap/ticker
 ```
 
